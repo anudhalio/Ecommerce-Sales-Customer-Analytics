@@ -198,7 +198,31 @@ The interactive dashboard includes:
 
 
 
-\## 9. Key Business Findings
+\## 9. Project Screenshots
+
+
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Screenshots/Screenshot%202026-11-25%20133212.png)
+
+### Excel Analysis
+
+![Excel Analysis 1](Screenshots/Screenshot%202026-11-25%20133420.png)
+
+![Excel Analysis 2](Screenshots/Screenshot%202026-11-25%20133434.png)
+
+
+### SQL Analysis
+
+![SQL Analysis 1](Screenshots/Screenshot%202026-11-25%20133731.png)
+
+![SQL Analysis 2](Screenshots/Screenshot%202026-11-25%20133818.png)
+
+
+
+
+\## 10. Key Business Findings
 
 
 
@@ -226,7 +250,7 @@ Based on the cleaned dataset:
 
 
 
-\## 10. Business Recommendations
+\## 11. Business Recommendations
 
 
 
@@ -244,13 +268,13 @@ Based on the cleaned dataset:
 
 
 
-\## 11. Project Structure
+\## 12. Project Structure
 
 
 
 \- Datasets – Original and cleaned datasets.
 
-\- Excel Analysis – Data cleaning, analysis and Excel dashboard.
+\- Excel Analysis – Data cleaning, analysis.
 
 \- SQL Analysis – Consolidated SQL analysis script.
 
@@ -258,7 +282,7 @@ Based on the cleaned dataset:
 
 
 
-\## 12. Conclusion
+\## 13. Conclusion
 
 
 
@@ -270,7 +294,7 @@ It highlights how data analytics can help businesses understand customer behavio
 
 
 
-\## 13. Data Source
+\## 14. Data Source
 
 
 
